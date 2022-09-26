@@ -1,0 +1,18 @@
+section {
+    border: 2px solid black;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+section article {
+    background-color: #3DD7AC;
+    border: 5px solid black;
+    width: 240px;
+    margin: 30px;
+}
+
+section article p {
+    text-align: center;
+}
